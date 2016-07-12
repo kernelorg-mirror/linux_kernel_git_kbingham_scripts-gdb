@@ -1,0 +1,4 @@
+git push github -f \
+        scriptsgdb/for-current \
+	scriptsgdb/for-next \
+	scriptsgdb/devel

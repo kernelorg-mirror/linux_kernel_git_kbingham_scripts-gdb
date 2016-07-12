@@ -1,0 +1,7 @@
+git checkout scriptsgdb/for-current
+git rebase $1
+git checkout scriptsgdb/for-next
+git rebase $1
+git checkout scriptsgdb/devel
+git rebase $1
+
